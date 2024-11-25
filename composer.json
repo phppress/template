@@ -4,6 +4,7 @@
     "description": "A template repository for PHP packages, offering a standardized structure, dependency injection setup, and essential configurations to streamline and accelerate package development.",
     "keywords": [
         "php",
+        "repository",
         "package",
         "template"
     ],
