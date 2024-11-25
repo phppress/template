@@ -7,6 +7,12 @@
 </p>
 
 <p align="center">
+    <a href="LICENSE" target="_blank">
+        <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="GPL-3.0">
+    </a>
+    <a href="https://www.php.net/releases/8.4/en.php" target="_blank">
+        <img src="https://img.shields.io/badge/PHP-%3E%3D8.4-787CB5" alt="PHP84">
+    </a>
     <a href="https://github.com/phppress/template/actions/workflows/build.yml" target="_blank">
         <img src="https://github.com/phppress/template/actions/workflows/build.yml/badge.svg" alt="PHPUnit">
     </a>
@@ -18,9 +24,6 @@
     </a>         
     <a href="https://codecov.io/gh/phppress/template" target="_blank">
         <img src="https://codecov.io/gh/phppress/template/branch/main/graph/badge.svg?token=MF0XUGVLYC" alt="Codecov">
-    </a>
-    <a href="https://www.php.net/releases/8.4/en.php" target="_blank">
-        <img src="https://img.shields.io/badge/PHP-%3E%3D8.4-787CB5" alt="PHP84">
     </a>
 </p>
 
@@ -49,7 +52,3 @@ to the require-dev section of your `composer.json` file.
 ## Testing
 
 [Check the documentation testing](docs/testing.md) to learn about testing.
-
-## License
-
-The GPL-3.0 License (GPL-3.0). Please see [License File](LICENSE) for more information.
