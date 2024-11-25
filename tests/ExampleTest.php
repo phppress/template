@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Yii\Extension\Widget\Tests;
+namespace PHPPress\Template\Tests;
 
 use PHPPress\Template\Example;
 
