@@ -19,6 +19,9 @@
     <a href="https://codecov.io/gh/phppress/template" target="_blank">
         <img src="https://codecov.io/gh/phppress/template/branch/main/graph/badge.svg?token=MF0XUGVLYC" alt="Codecov">
     </a>
+    <a href="https://www.php.net/releases/8.4/en.php" target="_blank">
+        <img src="https://img.shields.io/badge/PHP-%3E%3D8.4-787CB5" alt="PHP84">
+    </a>
 </p>
 
 ## Installation
@@ -46,10 +49,6 @@ to the require-dev section of your `composer.json` file.
 ## Testing
 
 [Check the documentation testing](docs/testing.md) to learn about testing.
-
-## Support versions
-
-[![PHP84](https://img.shields.io/badge/PHP-%3E%3D8.4-787CB5)](https://www.php.net/releases/8.4/en.php)
 
 ## License
 
