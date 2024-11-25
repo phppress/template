@@ -19,8 +19,8 @@
     <a href="https://github.com/phppress/template/actions/workflows/static.yml" target="_blank">
         <img src="https://github.com/phppress/template/actions/workflows/static.yml/badge.svg" alt="PHPStan">
     </a>      
-    <a href="https://dashboard.stryker-mutator.io/reports/template" target="_blank">
-        <img src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Ftemplate" alt="Infection">
+    <a href="https://dashboard.stryker-mutator.io/reports/github.com/phppress/template/main#mutant" target="_blank">
+        <img src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2Fphppress%2Ftemplate%2Fmain" alt="Infection">
     </a>         
     <a href="https://codecov.io/gh/phppress/template" target="_blank">
         <img src="https://codecov.io/gh/phppress/template/branch/main/graph/badge.svg?token=MF0XUGVLYC" alt="Codecov">
