@@ -23,7 +23,7 @@ name: build
 
 jobs:
   phpunit:
-    uses: phppress/actions/.github/workflows/phpunit.yml@add-shell-bash
+    uses: phppress/actions/.github/workflows/phpunit.yml@main
     secrets:
       CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
     with:
